@@ -1,0 +1,10 @@
+# Python 虚拟环境
+.venv/
+
+# LaTeX 编译中间文件
+texput.log
+report/*.aux
+report/*.out
+report/*.toc
+report/*.log
+
